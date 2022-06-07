@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Redux Store
+
+Live Site Link - https://redux-store-add.netlify.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
